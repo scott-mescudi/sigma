@@ -1,6 +1,7 @@
 # SigmaLang 🚀✨
 
 An esoteric programming language, in Golang for heaven's sake.
+
 ![Demo](./sigma.gif)
 
 ## Running SigmaLang
