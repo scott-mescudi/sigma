@@ -1,6 +1,6 @@
 # SigmaLang 🚀✨
 
-An esoteric programming language, in Golang for heaven's sake.
+An esoteric programming language with faster built time than rust lol, built in Golang for god sake.
 
 ![Demo](./sigma.gif)
 
