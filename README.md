@@ -1,7 +1,3 @@
-Here's the updated README to reflect the syntax changes:
-
----
-
 # SigmaLang 🚀✨
 
 An esoteric programming language, in Golang for heaven's sake.
