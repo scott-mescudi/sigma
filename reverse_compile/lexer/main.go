@@ -2,7 +2,7 @@ package lexer
 
 import (
 	"strings"
-	s "sigma_compiler/syntax"
+	s "amgis/syntax"
 )
 
 
