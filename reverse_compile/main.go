@@ -7,12 +7,12 @@ import (
 )
 
 func main(){
-	file ,err := os.ReadFile("D:\\sigma\\out\\sigma.go")
+	file ,err := os.ReadFile("D:\\sigma\\in\\test2.go")
 	if err!= nil {
         fmt.Printf("Error reading file: %v\n", err)
         return
     }
 	
     test := string(file)
-	os.WriteFile("/sigma/out/main.sigma", []byte(lexer.Words(test)), 0644)
+	os.WriteFile("/sigma/out/test2.sigma", []byte(lexer.Words(test)), 0644)
 }
