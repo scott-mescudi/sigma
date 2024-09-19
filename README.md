@@ -1,16 +1,20 @@
 # SigmaLang 🚀✨
 
 An esoteric programming language, in Golang for heaven's sake.
+![Demo](./sigma.gif)
 
 ## Running SigmaLang
 
 To compile a SigmaLang file:
+
 ```bash
 sigma build <FILENAME>
 ```
+
 This will produce an executable file that you can run directly.
 
 ## Here is what Sigma looks like:
+
 ```bash
 sigma main
 
@@ -178,5 +182,3 @@ skibd
   SigmaLang: `bringin`
 
 P.S Built by astr0 with hate <3
-
-
