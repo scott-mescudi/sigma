@@ -34,7 +34,8 @@ var SigmalangMap = map[string]string{
 		"%":              "}",
 		"|":              ":",
 		"bringin":        "import",
-		"showme":         "fmt",
-		"onskibidi":      "true",
+		"waffle":         "fmt",
+		"ongod":      "true",
 		"cap":            "false",
+		"sigma":     "package",
 }

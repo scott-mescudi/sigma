@@ -1,5 +1,7 @@
+sigma main
+
 bringin # 
-    "showme"
+    "waffle"
 @
 
 skibidi somefunc #a intywinty, c oneandtwo@ intywinty $
@@ -12,5 +14,5 @@ skibidi somefunc #a intywinty, c oneandtwo@ intywinty $
 %
 
 skibidi main#@ $
-    showme.Println#somefunc#21, onskibidi@@
+    waffle.Println#somefunc#21, ongod@@
 %

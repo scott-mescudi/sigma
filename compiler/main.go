@@ -14,5 +14,5 @@ func main(){
     }
 	
     test := string(file)
-	fmt.Println(lexer.Symbols(test))
+	os.WriteFile("/sigma/out/sigma.go", []byte(lexer.Words(test)), 0644)
 }
