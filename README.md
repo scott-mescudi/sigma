@@ -186,4 +186,6 @@ skibd
 - `import`: Imports libraries and packages.  
   SigmaLang: `bringin`
 
+
+![Demo](./skib.gif)
 P.S Built by astr0 with hate <3
