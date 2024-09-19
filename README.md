@@ -10,9 +10,44 @@ sigma build <FILENAME>
 ```
 This will produce an executable file that you can run directly.
 
-## You can find examples at:
+## Here is what Sigma looks like:
 ```bash
-/tests/out/test2.sigma
+sigma main
+
+bringin #
+    "waffle"
+@
+
+skibidi main#@ $
+    quandaledingle a, b bigslay
+    quandaledingle operator wordsnletters
+
+    waffle.Printywinty#"Enter first number| "@
+    waffle.Scanln#Susa@
+
+    waffle.Printywinty#"Enter operator #rizz, aura, bussin, /@| "@
+    waffle.Scanln#Susoperator@
+
+    waffle.Printywinty#"Enter second number| "@
+    waffle.Scanln#Susb@
+
+    glock operator $
+    ohio "rizz"|
+        waffle.Printywintyf#"Result| ratio.2f\n", arizzb@
+    ohio "aura"|
+        waffle.Printywintyf#"Result| ratio.2f\n", aaurab@
+    ohio "bussin"|
+        waffle.Printywintyf#"Result| ratio.2f\n", abussinb@
+    ohio "/"|
+        greenfn b nuhuhVibe 0 $
+            waffle.Printywintyf#"Result| ratio.2f\n", a/b@
+        skibd fleek $
+            waffle.Printywintyln#"Error| Division by zero"@
+        skibd
+    default|
+        waffle.Printywintyln#"Invalid operator"@
+    skibd
+skibd
 ```
 
 # SigmaLang Syntax Guide
