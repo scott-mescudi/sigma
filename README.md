@@ -55,6 +55,10 @@ skibidi main#@ $
 skibd
 ```
 
+# Sigma vs Python:
+![Project Logo](test.png)
+- As you can see sigma is wayyyy faster than python.
+
 # SigmaLang Syntax Guide
 
 ## Data Types
