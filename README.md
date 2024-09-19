@@ -1,124 +1,151 @@
-# Data Types
+Here's the updated README to reflect the syntax changes:
+
+---
+
+# SigmaLang 🚀✨
+
+An esoteric programming language, in Golang for heaven's sake.
+
+## Running SigmaLang
+
+To compile a SigmaLang file:
+```bash
+sigma build <FILENAME>
+```
+This will produce an executable file that you can run directly.
+
+## You can find examples at:
+```bash
+/tests/out/test2.sigma
+```
+
+# SigmaLang Syntax Guide
+
+## Data Types
 
 - `int`: Represents an integer data type (whole numbers).  
-  sigmalang: `intywinty`
+  SigmaLang: `intywinty`
 
 - `float32`: 32-bit floating point number (decimal values).  
-  sigmalang: `Slay`
+  SigmaLang: `Slay`
 
 - `float64`: 64-bit floating point number (higher precision decimals).  
-  sigmalang: `bigslay`
+  SigmaLang: `bigslay`
 
 - `string`: A sequence of characters (text).  
-  sigmalang: `wordsnletters`
+  SigmaLang: `wordsnletters`
 
 - `bool`: Boolean data type, can be either `true` or `false`.  
-  sigmalang: `oneandtwo` can be `onskibidi` or `cap`
+  SigmaLang: `oneandtwo` can be `ongod` or `cap`
 
-# Variable Keywords
+## Variable Keywords
 
 - `const`: Declares a constant, a value that cannot be changed after assignment.  
-  sigmalang: `Periodt`
+  SigmaLang: `Periodt`
 
 - `var`: Declares a variable, with optional initialization.  
-  sigmalang: `quandaledingle`
+  SigmaLang: `quandaledingle`
 
 - `:=`: Short declaration for variables (used within functions), implicitly infers the type.  
-  sigmalang: `Yeet`
+  SigmaLang: `Yeet`
 
-# Operators
+## Operators
 
 - `+`: Addition operator, adds two numbers.  
-  sigmalang: `rizz`
+  SigmaLang: `rizz`
 
 - `-`: Subtraction operator, subtracts one number from another.  
-  sigmalang: `aura`
+  SigmaLang: `aura`
 
 - `*`: Multiplication operator, multiplies two numbers.  
-  sigmalang: `bussin`
+  SigmaLang: `bussin`
 
 - `%`: Modulus operator, returns the remainder of a division.  
-  sigmalang: `ratio`
+  SigmaLang: `ratio`
 
 - `/`: Division operator, divides one number by another.  
-  sigmalang:
+  SigmaLang: `slash`
 
 - `<`: Less than operator.  
-  sigmalang: `lowkey`
+  SigmaLang: `lowkey`
 
 - `>`: Greater than operator.  
-  sigmalang: `highkey`
+  SigmaLang: `highkey`
 
 - `&`: Bitwise AND operator.  
-  sigmalang: `Sus`
+  SigmaLang: `Sus`
 
 - `|`: Bitwise OR operator.  
-  sigmalang: `straw`
+  SigmaLang: `straw`
 
 - `!`: Logical NOT operator.  
-  sigmalang: `nuhuh`
+  SigmaLang: `nuhuh`
 
 - `=`: Assignment operator, assigns a value to a variable.  
-  sigmalang: `Vibe`
+  SigmaLang: `Vibe`
 
-# Conditionals
+## Conditionals
 
 - `if`: Introduces a conditional statement, evaluates if the condition is `true`.  
-  sigmalang: `greenfn`
+  SigmaLang: `greenfn`
 
 - `else`: Defines a block to execute if the `if` condition is `false`.  
-  sigmalang: `fleek`
+  SigmaLang: `fleek`
 
 - `for`: Loop keyword, iterates over a range, slice, map, or repeats a block of code.  
-  sigmalang: `Drip`
+  SigmaLang: `Drip`
 
-# Functions
+## Functions
 
 - `func`: Declares a function.  
-  sigmalang: `skibidi`
+  SigmaLang: `skibidi`
 
 - `return`: Specifies the value to return from a function.  
-  sigmalang: `spinback`
+  SigmaLang: `spinback`
 
-# Struct
+## Struct
 
 - `type`: Defines a new type.  
-  sigmalang: `uhhthething`
+  SigmaLang: `uhhthething`
 
 - `struct`: Declares a custom data structure, composed of fields.  
-  sigmalang: `mobnke`
+  SigmaLang: `mobnke`
 
 - `map[type]type`: Defines a key-value pair map, where both key and value types are specified.  
-  sigmalang:
+  SigmaLang: `mapmap`
 
 - `slice[type]`: Defines a dynamic array where `type` represents the type of its elements.  
-  sigmalang:
+  SigmaLang: `listof`
 
-# Miscellaneous
+## Miscellaneous
 
 - `)`: Closing parenthesis, used to close function calls or conditionals.  
-  sigmalang: `@`
+  SigmaLang: `@`
 
 - `(`: Opening parenthesis, used to begin function calls or conditionals.  
-  sigmalang: `#`
+  SigmaLang: `#`
 
 - `]`: Closing bracket, used to close array or slice definitions.  
-  sigmalang: `livvy`
+  SigmaLang: `livvy`
 
 - `[`: Opening bracket, used to begin array or slice definitions.  
-  sigmalang: `babygronk`
+  SigmaLang: `babygronk`
 
 - `;`: Statement terminator (may be optional in some languages).  
-  sigmalang: `Yeet`
+  SigmaLang: `Yeet`
 
 - `{`: Opening brace, used to start a block of code.  
-  sigmalang: `$`
+  SigmaLang: `$`
 
 - `}`: Closing brace, used to end a block of code.  
-  sigmalang: `skibd`
+  SigmaLang: `skibd`
 
 - `:`: Used in various contexts, such as defining a map, or within short variable declarations (`:=`).  
-  sigmalang: `|`
+  SigmaLang: `|`
 
 - `import`: Imports libraries and packages.  
-  sigmalang: `bringin`
+  SigmaLang: `bringin`
+
+P.S Built by astr0 with hate <3
+
+
