@@ -11,7 +11,7 @@ var SigmalangMap = map[string]string{
 	"Yeet":           ":=",
 	"rizz":           "+",
 	"aura":           "-",
-	"bussin":         "*", // Keeping this as the Gen Z term for "*"
+	"bussin":         "*", 
 	"ratio":          "%",
 	"lowkey":         "<",
 	"highkey":        ">",
@@ -19,9 +19,9 @@ var SigmalangMap = map[string]string{
 	"straw":          "|",
 	"nuhuh":          "!",
 	"Vibe":           "=",
-	"greenfn":        "if",   // Replacing <div> with "vibedrip"
-	"fleek":          "else", // Replacing </div> with "fleek"
-	"Drip":           "for",  // Unique Gen Z term for "for"
+	"greenfn":        "if",   
+	"fleek":          "else", 
+	"Drip":           "for",  
 	"skibidi":        "func",
 	"spinback":       "return",
 	"uhhthething":    "type",
