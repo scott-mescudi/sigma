@@ -94,12 +94,13 @@ func build(filename string) {
 			return
 		}
 
-		defer os.Remove(newfile)
 		err = buildGoFilr(newfile)
 		if err != nil {
 			fmt.Println(err)
 			return
 		}
+
+		os.Remove(newfile)
 
 		fmt.Println("Compilation successful")
 	} else {
